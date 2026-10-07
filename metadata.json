@@ -1,0 +1,6 @@
+{
+  "name": "Tobstech Cyber & Bookshop",
+  "description": "Premier cyber café, printing & document center, and school stationery & bookshop located in Magongo, Mombasa, Kenya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
